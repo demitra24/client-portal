@@ -38,12 +38,17 @@ Client (React + Vite + Tailwind) → Express REST API + Socket.IO (Render)
 
 ## 📸 Screenshots
 
-| | |
+| | |<img width="1916" height="971" alt="login" src="https://github.com/user-attachments/assets/8421aa26-ed57-4315-931e-3441e7ce845d" />
+<img width="1915" height="922" alt="dashboard" src="https://github.com/user-attachments/assets/f64fe189-b497-4a6b-91a0-219bbfce4401" />
+<img width="1916" height="906" alt="board" src="https://github.com/user-attachments/assets/bd214449-d3bc-490a-bd3d-1384df603d98" />
+<img width="1915" height="911" alt="approval" src="https://github.com/user-attachments/assets/574dcc93-b77a-454d-b538-072cc4458b5d" />
+
+
+
+
 
 |---|---
 
-| ![Dashboard](screenshots/dashboard.png) | ![Board](screenshots/board.png) |
-| ![Approval](screenshots/approval.png) | ![Login](screenshots/login.png) |
 
 ## ⚙️ Local setup
 
